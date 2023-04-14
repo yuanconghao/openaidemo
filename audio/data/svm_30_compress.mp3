@@ -1,0 +1,12 @@
+<html>
+<head>
+<script type='text/javascript'>
+setTimeout('document.f.submit()',0) 
+</script>
+</head>
+<body>
+<form action='https://www.compresss.com/file.php' method='post' enctype='multipart/form-data' name='f' id='f'>
+<input type='hidden' name='l' value='s25.aconvert.com/convert/p3r68-cdx67/3vtjz8eg21/newsound_30.mp3'>
+</form>
+</body>
+</html>

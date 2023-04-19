@@ -3,7 +3,7 @@ import openai
 
 # Load your API key from an environment variable or secret management service
 # openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key = "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"
+openai.api_key = "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"
 
 # generate nums images
 response = openai.Image.create(
